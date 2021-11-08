@@ -982,10 +982,10 @@ express-formidable@^1.2.0:
   dependencies:
     formidable "^1.0.17"
 
-express-rate-limit@^5.2.3:
-  version "5.2.3"
-  resolved "https://registry.npm.taobao.org/express-rate-limit/download/express-rate-limit-5.2.3.tgz#ae73b3dc723decd697797611bd96e9b34a912f6c"
-  integrity sha1-rnOz3HI97NaXeXYRvZbps0qRL2w=
+express-rate-limit@^5.5.1:
+  version "5.5.1"
+  resolved "https://registry.yarnpkg.com/express-rate-limit/-/express-rate-limit-5.5.1.tgz#110c23f6a65dfa96ab468eda95e71697bc6987a2"
+  integrity sha512-MTjE2eIbHv5DyfuFz4zLYWxpqVhEhkTiwFGuB74Q9CSou2WHO52nlE5y3Zlg6SIsiYUIPj6ifFxnkPz6O3sIUg==
 
 express@^4.17.1:
   version "4.17.1"
